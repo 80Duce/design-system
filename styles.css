@@ -38,6 +38,13 @@ body {
 .beige {
   background-color: #efd9ca;
 }
+.color-shades {
+  display: inline-block;
+  width: 32%;
+  text-align: center;
+  margin: 20px auto;
+  min-height: 100px;
+}
 
 .font-panel {
   width: 45%;
