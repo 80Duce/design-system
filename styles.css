@@ -45,6 +45,21 @@ body {
   margin: 20px auto;
   min-height: 100px;
 }
+first-color {
+  background-color: hsla(240, 100%, 30%, 1);
+}
+.second-color {
+  background-color: hsla(240, 100%, 45%, 1);
+}
+.third-color {
+  background-color: hsla(240, 100%, 50%, 1);
+}
+.fourth-color {
+  background-color: hsla(240, 100%, 70%, 1);
+}
+.fifth-color {
+  background-color: hsla(240, 100%, 75%, 1);
+}
 
 .font-panel {
   width: 45%;
