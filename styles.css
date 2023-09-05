@@ -38,14 +38,20 @@ body {
 .beige {
   background-color: #efd9ca;
 }
-.color-shades {
-  display: inline-block;
-  width: 32%;
-  text-align: center;
-  margin: 20px auto;
-  min-height: 100px;
+
+.shade-container {
+  width: 80;
 }
-first-color {
+.shade-color {
+   display: inline-block;
+  width: 32%;
+  text-align: left;
+  margin: 20px auto;
+  min-height: 100px
+}
+
+
+.first-color {
   background-color: hsla(240, 100%, 30%, 1);
 }
 .second-color {
